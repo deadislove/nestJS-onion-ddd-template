@@ -126,3 +126,5 @@ With Mau, you can deploy your application in just a few clicks, allowing you to 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+[Template project](https://github.com/deadislove/nestJs-onion-ddd-template) is [MIT licensed](https://github.com/deadislove/nestJs-onion-ddd-template/blob/main/LICENSE.md).
