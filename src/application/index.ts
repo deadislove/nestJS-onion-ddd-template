@@ -1,4 +1,4 @@
-import { UserService } from "./user.services";
+import { UserService } from "./services/user.services";
 
 export {
     UserService
