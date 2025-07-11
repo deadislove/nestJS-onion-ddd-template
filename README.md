@@ -22,7 +22,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=deadislove.nestJS-onion-ddd-template) -->
-![Visitors](https://img.shields.io/badge/visitors-1_total-brightgreen)
+![Visitors](https://img.shields.io/badge/visitors-13_total-brightgreen)
 ![Clones](https://img.shields.io/badge/clones-22_total_16_unique-blue) <!--CLONE-BADGE-->
 
 # Project Overview:
