@@ -23,7 +23,7 @@
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=deadislove.nestJS-onion-ddd-template) -->
 ![Visitors](https://img.shields.io/badge/visitors-2_total-brightgreen)
-![Clones](https://img.shields.io/badge/clones-52_total_32_unique-blue) <!--CLONE-BADGE-->
+![Clones](https://img.shields.io/badge/clones-63_total_36_unique-blue) <!--CLONE-BADGE-->
 
 # Project Overview:
 This project uses [NestJS](https://github.com/nestjs/nest) with Domain-Driven Design (DDD) principles and Onion Architecture to structure server-side applications. It focuses on separating business logic, infrastructure, and external interfaces to ensure scalability and maintainability.
